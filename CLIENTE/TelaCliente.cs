@@ -5,11 +5,10 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 using System.Windows.Forms;
-using Testes;
 
 namespace CLIENTE
 {
-    public partial class CLIENTE : Form
+    public partial class TelaCliente : Form
     {
 
 
@@ -19,7 +18,7 @@ namespace CLIENTE
         Thread thInteraction;
 
         SERVIDOR servidor = new SERVIDOR();
-        public CLIENTE()
+        public TelaCliente()
         {
             InitializeComponent();
         }

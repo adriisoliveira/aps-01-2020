@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CLIENTE
+namespace LoginCliente
 {
     static class Program
     {
@@ -13,7 +16,7 @@ namespace CLIENTE
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TelaCliente());
+            Application.Run(new LoginClienteTela());
         }
     }
 }

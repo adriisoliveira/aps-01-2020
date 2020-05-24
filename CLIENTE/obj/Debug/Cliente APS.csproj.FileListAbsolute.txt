@@ -48,3 +48,11 @@ C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\Cliente APS.csproj.Gener
 C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\Cliente APS.csproj.CoreCompileInputs.cache
 C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\CLIENTE.exe
 C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\CLIENTE.pdb
+C:\Users\Drih\GitHub\aps-01-2020\CLIENTE\obj\Debug\Cliente APS.csprojAssemblyReference.cache
+C:\Users\Drih\GitHub\aps-01-2020\CLIENTE\obj\Debug\CLIENTE.CLIENTE.resources
+C:\Users\Drih\GitHub\aps-01-2020\CLIENTE\obj\Debug\CLIENTE.Properties.Resources.resources
+C:\Users\Drih\GitHub\aps-01-2020\CLIENTE\obj\Debug\CLIENTE.TransfArquivo.resources
+C:\Users\Drih\GitHub\aps-01-2020\CLIENTE\obj\Debug\Cliente APS.csproj.GenerateResource.cache
+C:\Users\Drih\GitHub\aps-01-2020\CLIENTE\obj\Debug\Cliente APS.csproj.CoreCompileInputs.cache
+C:\Users\Drih\GitHub\aps-01-2020\CLIENTE\obj\Debug\CLIENTE.exe
+C:\Users\Drih\GitHub\aps-01-2020\CLIENTE\obj\Debug\CLIENTE.pdb

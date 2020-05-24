@@ -4,30 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D506ED7E-68FA-4172-BD04-DB8D76D64D44}</ProjectGuid>
+    <ProjectGuid>{7FA294BB-E419-4263-8D2A-E1F229BBEBB9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CLIENTE</RootNamespace>
-    <AssemblyName>CLIENTE</AssemblyName>
+    <RootNamespace>LoginCliente</RootNamespace>
+    <AssemblyName>LoginCliente</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
-    <PublishUrl>C:\Users\Drih\Desktop\</PublishUrl>
-    <Install>true</Install>
-    <InstallFrom>Disk</InstallFrom>
-    <UpdateEnabled>false</UpdateEnabled>
-    <UpdateMode>Foreground</UpdateMode>
-    <UpdateInterval>7</UpdateInterval>
-    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
-    <UpdatePeriodically>false</UpdatePeriodically>
-    <UpdateRequired>false</UpdateRequired>
-    <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>1</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <UseApplicationTrust>false</UseApplicationTrust>
-    <PublishWizardCompleted>true</PublishWizardCompleted>
-    <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -48,24 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <ManifestCertificateThumbprint>77B41420068DE83245BD1C00EE2B29EF2F3FF14F</ManifestCertificateThumbprint>
-  </PropertyGroup>
-  <PropertyGroup>
-    <ManifestKeyFile>Cliente APS_TemporaryKey.pfx</ManifestKeyFile>
-  </PropertyGroup>
-  <PropertyGroup>
-    <GenerateManifests>true</GenerateManifests>
-  </PropertyGroup>
-  <PropertyGroup>
-    <SignManifests>true</SignManifests>
-  </PropertyGroup>
-  <PropertyGroup>
-    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
-  </PropertyGroup>
-  <PropertyGroup>
-    <TargetZone>LocalIntranet</TargetZone>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -80,22 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TelaCliente.cs">
+    <Compile Include="ConexaoLoginCliente.cs" />
+    <Compile Include="LoginClienteTela.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="TelaCliente.Designer.cs">
-      <DependentUpon>TelaCliente.cs</DependentUpon>
+    <Compile Include="LoginClienteTela.Designer.cs">
+      <DependentUpon>LoginClienteTela.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TransfArquivo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="TransfArquivo.Designer.cs">
-      <DependentUpon>TransfArquivo.cs</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="TelaCliente.resx">
-      <DependentUpon>TelaCliente.cs</DependentUpon>
+    <EmbeddedResource Include="LoginClienteTela.resx">
+      <DependentUpon>LoginClienteTela.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -106,11 +67,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="TransfArquivo.resx">
-      <DependentUpon>TransfArquivo.cs</DependentUpon>
-    </EmbeddedResource>
-    <None Include="Cliente APS_TemporaryKey.pfx" />
-    <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -125,25 +81,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
-      <Visible>False</Visible>
-      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
-      <Install>true</Install>
-    </BootstrapperPackage>
-    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
-      <Visible>False</Visible>
-      <ProductName>.NET Framework 3.5 SP1</ProductName>
-      <Install>false</Install>
-    </BootstrapperPackage>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Servidor APS\Servidor APS.csproj">
-      <Project>{C8376765-F086-446E-BD36-EDF6B7F4A838}</Project>
-      <Name>Servidor APS</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TESTE_TRANSFERENCIA\Testes\Testes.csproj">
-      <Project>{43A0E1BB-4D68-4E12-84D6-FCE4137D9F2C}</Project>
-      <Name>Testes</Name>
+    <ProjectReference Include="..\CLIENTE\Cliente APS.csproj">
+      <Project>{D506ED7E-68FA-4172-BD04-DB8D76D64D44}</Project>
+      <Name>Cliente APS</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

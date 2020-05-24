@@ -41,7 +41,7 @@ namespace CLIENTE
 
         private void btnRetorno_Click(object sender, EventArgs e)
         {
-            CLIENTE cliente = new CLIENTE();
+            TelaCliente cliente = new TelaCliente();
             cliente.Show();
             this.Hide();
         }
