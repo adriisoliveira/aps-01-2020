@@ -33,6 +33,7 @@ namespace LoginCliente
 
         public void limpaCampos()
         {
+            txtCpf.Text = "";
             txtNome.Text = "";
             txtSenha.Text = "";
             txtTelefone.Text = "";
