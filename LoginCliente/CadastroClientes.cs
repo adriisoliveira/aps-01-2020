@@ -49,7 +49,7 @@ namespace LoginCliente
             {
                 //Abrir a conexão com o banco de dados
                 cmd.Connection = conexao.Conectar();
-                cmd.CommandText = "insert into Cadastro (usuario, nomeCompleto,telefone,senha) values ('" + txtUsuario.Text + "','" + txtNome.Text + "','" + txtTelefone.Text + "','" + txtSenha.Text + "')";
+                cmd.CommandText = "insert into Cadastro (cpf,usuario, nomeCompleto,telefone,senha) values ('" +txtCpf+"','"+ txtUsuario.Text + "','" + txtNome.Text + "','" + txtTelefone.Text + "','" + txtSenha.Text + "')";
                 cmd.CommandText = "insert into ClientesUsuarios (Usuario, Senha) values ('" + txtUsuario.Text + "','" + txtSenha.Text + "')";
                 cmd.ExecuteNonQuery();
                 conexao.desconectar();
