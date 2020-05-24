@@ -25,3 +25,4 @@ C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor APS.csproj.Gene
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor APS.csproj.CoreCompileInputs.cache
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor APS.exe
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor APS.pdb
+C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor APS.csprojAssemblyReference.cache

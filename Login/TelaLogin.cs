@@ -66,9 +66,7 @@ namespace Login
                     //caso de algum erro ja na conexão o programa ja pula para o cath
                     //para tentar resolver
                     this.mensagem = "Erro ao tentar se conectar com o Banco de Dados!!!!";
-                }
-
-                
+                }   
             
         }
 

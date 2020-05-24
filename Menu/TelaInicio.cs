@@ -16,7 +16,7 @@ namespace Menu
     {
 
         TelaLogin login = new TelaLogin();
-        CarregarChat carregar = new CarregarChat();
+        Verificação vChat = new Verificação();
 
         public TelaInicio()
         {
@@ -36,7 +36,7 @@ namespace Menu
 
         private void btnBuscar_Click(object sender, EventArgs e)
         {
-            carregar.Show();
+            vChat.Show();
             this.Hide();
         }
 

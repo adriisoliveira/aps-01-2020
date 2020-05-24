@@ -52,3 +52,4 @@ C:\Users\Drih\GitHub\aps-01-2020\Menu\obj\Debug\TelaInicio.csproj.CoreCompileInp
 C:\Users\Drih\GitHub\aps-01-2020\Menu\obj\Debug\TelaInicio.csproj.CopyComplete
 C:\Users\Drih\GitHub\aps-01-2020\Menu\obj\Debug\Menu.exe
 C:\Users\Drih\GitHub\aps-01-2020\Menu\obj\Debug\Menu.pdb
+C:\Users\Drih\GitHub\aps-01-2020\Menu\obj\Debug\Menu.Verificação.resources
