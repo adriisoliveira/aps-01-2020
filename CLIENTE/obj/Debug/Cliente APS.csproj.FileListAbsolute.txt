@@ -1,0 +1,50 @@
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\bin\Debug\CLIENTE.exe.config
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\bin\Debug\CLIENTE.exe.manifest
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\bin\Debug\CLIENTE.application
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\bin\Debug\CLIENTE.exe
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\bin\Debug\CLIENTE.pdb
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\bin\Debug\Servidor APS.exe
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\Cliente APS.csprojAssemblyReference.cache
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\CLIENTE.CLIENTE.resources
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\CLIENTE.Properties.Resources.resources
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\Cliente APS.csproj.GenerateResource.cache
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\Cliente APS.csproj.CoreCompileInputs.cache
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\CLIENTE.TrustInfo.xml
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\CLIENTE.exe.manifest
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\CLIENTE.application
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\Cliente APS.csproj.CopyComplete
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\CLIENTE.exe
+C:\Users\Drih\Desktop\APS TESTES\CLIENTE\obj\Debug\CLIENTE.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\Cliente APS.csprojAssemblyReference.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\CLIENTE.CLIENTE.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\CLIENTE.Properties.Resources.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\CLIENTE.TransfArquivo.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\Cliente APS.csproj.GenerateResource.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\Cliente APS.csproj.CoreCompileInputs.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\CLIENTE.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\CLIENTE.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\CLIENTE.exe.config
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\CLIENTE.exe.manifest
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\CLIENTE.application
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\CLIENTE.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\CLIENTE.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\Servidor APS.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\Testes.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\Testes.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\bin\Debug\Testes.exe.config
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\CLIENTE.TrustInfo.xml
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\CLIENTE.exe.manifest
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\CLIENTE.application
+C:\Users\Drih\Desktop\APS_semiPRONTA\CLIENTE\obj\Debug\Cliente APS.csproj.CopyComplete
+C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\Cliente APS.csprojAssemblyReference.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\CLIENTE.CLIENTE.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\CLIENTE.Properties.Resources.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\CLIENTE.TransfArquivo.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\Cliente APS.csproj.GenerateResource.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\Cliente APS.csproj.CoreCompileInputs.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\CLIENTE.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA2\CLIENTE\obj\Debug\CLIENTE.pdb

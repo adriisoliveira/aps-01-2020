@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor APS", "Servidor APS.csproj", "{C8376765-F086-446E-BD36-EDF6B7F4A838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente APS", "..\CLIENTE\Cliente APS.csproj", "{D506ED7E-68FA-4172-BD04-DB8D76D64D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "..\Login\Login.csproj", "{E2C3A23B-6FDE-4DDF-B42F-6EBCE7D5606A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8376765-F086-446E-BD36-EDF6B7F4A838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8376765-F086-446E-BD36-EDF6B7F4A838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8376765-F086-446E-BD36-EDF6B7F4A838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8376765-F086-446E-BD36-EDF6B7F4A838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D506ED7E-68FA-4172-BD04-DB8D76D64D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D506ED7E-68FA-4172-BD04-DB8D76D64D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D506ED7E-68FA-4172-BD04-DB8D76D64D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D506ED7E-68FA-4172-BD04-DB8D76D64D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C3A23B-6FDE-4DDF-B42F-6EBCE7D5606A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C3A23B-6FDE-4DDF-B42F-6EBCE7D5606A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C3A23B-6FDE-4DDF-B42F-6EBCE7D5606A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C3A23B-6FDE-4DDF-B42F-6EBCE7D5606A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2ACEF8-9DEC-449A-8174-B3CF2DF2CCB1}
+	EndGlobalSection
+EndGlobal

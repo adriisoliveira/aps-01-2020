@@ -1,0 +1,28 @@
+C:\Users\Drih\source\repos\Login\bin\Debug\Login.exe.config
+C:\Users\Drih\source\repos\Login\bin\Debug\Login.exe
+C:\Users\Drih\source\repos\Login\bin\Debug\Login.pdb
+C:\Users\Drih\source\repos\Login\obj\Debug\Login.Form1.resources
+C:\Users\Drih\source\repos\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Drih\source\repos\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Drih\source\repos\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Drih\source\repos\Login\obj\Debug\Login.exe
+C:\Users\Drih\source\repos\Login\obj\Debug\Login.pdb
+C:\Users\Drih\source\repos\Login\bin\Debug\Servidor APS.exe
+C:\Users\Drih\source\repos\Login\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\source\repos\Login\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\source\repos\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Drih\source\repos\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Login.exe.config
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Login.exe
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Login.pdb
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Servidor APS.exe
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.Login.resources
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.exe
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.pdb

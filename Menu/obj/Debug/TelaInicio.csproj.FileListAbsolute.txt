@@ -1,0 +1,36 @@
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Menu.exe.config
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Menu.exe
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Menu.pdb
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Login.exe
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Servidor APS.exe
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Login.pdb
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Login.exe.config
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\Desktop\APS TESTES\Menu\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\TelaInicio.csprojAssemblyReference.cache
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\Menu.CarregarChat.resources
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\Menu.TelaInicio.resources
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\TelaInicio.csproj.GenerateResource.cache
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\TelaInicio.csproj.CoreCompileInputs.cache
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\TelaInicio.csproj.CopyComplete
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\Menu.exe
+C:\Users\Drih\Desktop\APS TESTES\Menu\obj\Debug\Menu.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Menu.exe.config
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Menu.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Menu.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Login.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Servidor APS.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Login.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Login.exe.config
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\TelaInicio.csprojAssemblyReference.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\Menu.CarregarChat.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\Menu.TelaInicio.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\TelaInicio.csproj.GenerateResource.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\TelaInicio.csproj.CoreCompileInputs.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\TelaInicio.csproj.CopyComplete
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\Menu.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\Menu\obj\Debug\Menu.pdb

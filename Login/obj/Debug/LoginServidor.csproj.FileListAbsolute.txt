@@ -1,0 +1,28 @@
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Login.exe.config
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Login.exe
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Login.pdb
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Servidor APS.exe
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\Desktop\APS TESTES\Login\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\LoginServidor.csprojAssemblyReference.cache
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.TelaLogin.resources
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\LoginServidor.csproj.GenerateResource.cache
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\LoginServidor.csproj.CoreCompileInputs.cache
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\LoginServidor.csproj.CopyComplete
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.exe
+C:\Users\Drih\Desktop\APS TESTES\Login\obj\Debug\Login.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\bin\Debug\Login.exe.config
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\bin\Debug\Login.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\bin\Debug\Login.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\bin\Debug\Servidor APS.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\LoginServidor.csprojAssemblyReference.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\Login.TelaLogin.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\LoginServidor.csproj.GenerateResource.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\LoginServidor.csproj.CoreCompileInputs.cache
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\LoginServidor.csproj.CopyComplete
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\Login.exe
+C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\Login.pdb
