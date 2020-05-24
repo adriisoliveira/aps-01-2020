@@ -37,7 +37,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtLogin = new System.Windows.Forms.TextBox();
             this.txtPassword = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnCadastro = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
@@ -121,15 +121,15 @@
             this.txtPassword.Size = new System.Drawing.Size(196, 20);
             this.txtPassword.TabIndex = 9;
             // 
-            // button1
+            // btnCadastro
             // 
-            this.button1.Location = new System.Drawing.Point(274, 172);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 16;
-            this.button1.Text = "Cadastre-se";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnCadastro.Location = new System.Drawing.Point(274, 172);
+            this.btnCadastro.Name = "btnCadastro";
+            this.btnCadastro.Size = new System.Drawing.Size(75, 23);
+            this.btnCadastro.TabIndex = 16;
+            this.btnCadastro.Text = "Cadastre-se";
+            this.btnCadastro.UseVisualStyleBackColor = true;
+            this.btnCadastro.Click += new System.EventHandler(this.btnCadastro_Click);
             // 
             // label4
             // 
@@ -167,7 +167,7 @@
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnCadastro);
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label3);
@@ -196,7 +196,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtLogin;
         private System.Windows.Forms.TextBox txtPassword;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnCadastro;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.PictureBox pictureBox2;

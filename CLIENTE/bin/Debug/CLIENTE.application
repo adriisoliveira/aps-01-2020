@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="CLIENTE.exe.manifest" size="8140">
+    <dependentAssembly dependencyType="install" codebase="CLIENTE.exe.manifest" size="7509">
       <assemblyIdentity name="CLIENTE.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HLWbxUbQHVSWj2u+jHUFr+YUwZ4pPs27nfpq2WVGm4g=</dsig:DigestValue>
+        <dsig:DigestValue>JG1+5qQ01dGnenX4mNHcgMv6Nv+ufX6k+oeyKT3pyZ0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

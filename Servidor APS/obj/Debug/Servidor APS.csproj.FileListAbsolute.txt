@@ -19,7 +19,6 @@ C:\Users\Drih\Desktop\APS_semiPRONTA\Servidor APS\bin\Debug\Servidor APS.pdb
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\bin\Debug\Servidor APS.exe.config
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\bin\Debug\Servidor APS.exe
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\bin\Debug\Servidor APS.pdb
-C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor APS.csprojAssemblyReference.cache
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor_APS.SERVIDOR.resources
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor_APS.Properties.Resources.resources
 C:\Users\Drih\GitHub\aps-01-2020\Servidor APS\obj\Debug\Servidor APS.csproj.GenerateResource.cache

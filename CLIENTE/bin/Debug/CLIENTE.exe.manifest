@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9PPOIi9hoHrUQrkjVvtprrFHzSZj6I1j2X7u7i/RdCk=</dsig:DigestValue>
+        <dsig:DigestValue>shXIIX9IEBuEneWLhTQMLzRUkvmg3NniVXQcOY2uncE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,19 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uhSRK5jXvSqtCaoo64MxWscGcLJY9JiTYdfljPJ/8RY=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Testes.exe" size="189440">
-      <assemblyIdentity name="Testes" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>276q7+ki4xUqthnWa0czz8J7d1PFolXMRSnQed/Ad6A=</dsig:DigestValue>
+        <dsig:DigestValue>EvLU3Xo6Xwhigt5io6orm+n+QbNJYN1BvN53x/JoUsI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

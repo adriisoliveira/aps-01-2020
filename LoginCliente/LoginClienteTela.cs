@@ -31,10 +31,7 @@ namespace LoginCliente
             Application.Exit();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
 
-        }
 
         private void btnConectar_Click(object sender, EventArgs e)
         {
@@ -86,6 +83,13 @@ namespace LoginCliente
                 //para tentar resolver
                 this.mensagem = "Erro ao tentar se conectar com o Banco de Dados!!!!";
             }
+        }
+
+        private void btnCadastro_Click(object sender, EventArgs e)
+        {
+            CadastroClientes cadastro = new CadastroClientes();
+            cadastro.Show();
+            this.Hide();
         }
     }
 }

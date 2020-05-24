@@ -26,3 +26,16 @@ C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\LoginServidor.csproj.CoreCo
 C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\LoginServidor.csproj.CopyComplete
 C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\Login.exe
 C:\Users\Drih\Desktop\APS_semiPRONTA\Login\obj\Debug\Login.pdb
+C:\Users\Drih\GitHub\aps-01-2020\Login\bin\Debug\Login.exe.config
+C:\Users\Drih\GitHub\aps-01-2020\Login\bin\Debug\Login.exe
+C:\Users\Drih\GitHub\aps-01-2020\Login\bin\Debug\Login.pdb
+C:\Users\Drih\GitHub\aps-01-2020\Login\bin\Debug\Servidor APS.exe
+C:\Users\Drih\GitHub\aps-01-2020\Login\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\GitHub\aps-01-2020\Login\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\GitHub\aps-01-2020\Login\obj\Debug\Login.TelaLogin.resources
+C:\Users\Drih\GitHub\aps-01-2020\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Drih\GitHub\aps-01-2020\Login\obj\Debug\LoginServidor.csproj.GenerateResource.cache
+C:\Users\Drih\GitHub\aps-01-2020\Login\obj\Debug\LoginServidor.csproj.CoreCompileInputs.cache
+C:\Users\Drih\GitHub\aps-01-2020\Login\obj\Debug\LoginServidor.csproj.CopyComplete
+C:\Users\Drih\GitHub\aps-01-2020\Login\obj\Debug\Login.exe
+C:\Users\Drih\GitHub\aps-01-2020\Login\obj\Debug\Login.pdb

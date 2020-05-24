@@ -1,0 +1,18 @@
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\LoginCliente.exe.config
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\LoginCliente.exe
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\LoginCliente.pdb
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\CLIENTE.exe
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\Servidor APS.exe
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\CLIENTE.pdb
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\CLIENTE.exe.config
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\Servidor APS.pdb
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\bin\Debug\Servidor APS.exe.config
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.csprojAssemblyReference.cache
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.LoginClienteTela.resources
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.Properties.Resources.resources
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.csproj.GenerateResource.cache
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.csproj.CoreCompileInputs.cache
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.csproj.CopyComplete
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.exe
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.pdb
+C:\Users\Drih\GitHub\aps-01-2020\LoginCliente\obj\Debug\LoginCliente.CadastroClientes.resources
