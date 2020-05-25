@@ -103,6 +103,7 @@ namespace Servidor_APS
 
                 //metodo ainda não criado para enviar uma mensagem de ADM
                 setMsg("## CONEXÕES PERDIDAS...##", true);
+                rtbConversa.Clear();
             }
         }
 
@@ -194,6 +195,7 @@ namespace Servidor_APS
         //Iniciar - Conectar e chamar o thread
         private void start()
         {
+            
             if (Connect())
             {
                 setMsg(" - -  - AGUARDANDO UMA CONEXÃ0 - - - - -" + System.Environment.NewLine, true);
