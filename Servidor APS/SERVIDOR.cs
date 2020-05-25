@@ -103,7 +103,6 @@ namespace Servidor_APS
 
                 //metodo ainda não criado para enviar uma mensagem de ADM
                 setMsg("## CONEXÕES PERDIDAS...##", true);
-                rtbConversa.Clear();
             }
         }
 
