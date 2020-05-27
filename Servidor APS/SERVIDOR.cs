@@ -28,7 +28,7 @@ namespace Servidor_APS
 
         //porta da conexão
         int numeroPorta = 8000;
-        //escutar o cliente e ficar esperando por novas conexões
+        //Escutar o cliente e ficar esperando por novas conexões
         TcpListener tcpListener;
         //cliente
         TcpClient tcpClient;
@@ -153,14 +153,15 @@ namespace Servidor_APS
         //Método Mensagem de ADM
         //Delegate para escreve sem dar erro
         delegate void delSetMsg(string mensagem, bool burlar);
-        //Quando eu chamar este método, ele vai verificar se esta requerendo uma invocação
+        //Quando chamar este método, ele vai verificar se esta requerendo uma invocação
 
         private void setMsg(string mensagem, bool burlar)
         {
             //se for chamada a invocação
             if (this.InvokeRequired)
             {
-                //Ele vai começar a incovação chamando este método de novo enviando os dois parametros, verificando se ha um burlar ou não
+                //Ele vai começar a incovação chamando este método de novo enviando os dois parametros,
+                //verificando se ha um burlar ou não
                 this.BeginInvoke(new delSetMsg(setMsg), mensagem, burlar);
             }
             else
