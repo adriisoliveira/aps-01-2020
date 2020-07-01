@@ -18,7 +18,7 @@ namespace Menu
         public ConexaoCarregarChat()
         {
             //endereço do banco de dados
-            con.ConnectionString = "Data Source=DRIH;Initial Catalog=APS_IPs;Integrated Security=True";
+            con.ConnectionString = "Data Source=LAPTOP-19CP4RFH\\DRIH;Initial Catalog=APS_IPs;Integrated Security=True";
         }
 
         //Método para conectar com o banco de dados

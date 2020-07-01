@@ -56,7 +56,7 @@ namespace CLIENTE
                 byte[] sendBytes = Encoding.ASCII.GetBytes(mensagem);
                 networkStream.Write(sendBytes, 0, sendBytes.Length);
             }
-            ,
+            
 
         }
 

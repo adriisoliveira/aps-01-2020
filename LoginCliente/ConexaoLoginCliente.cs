@@ -16,7 +16,7 @@ namespace LoginCliente
         public ConexaoLoginCliente()
         {
             //endereço do banco de dados
-            con.ConnectionString = "Data Source=DRIH;Initial Catalog=LoginClientes;Integrated Security=True";
+            con.ConnectionString = "Data Source=LAPTOP-19CP4RFH\\DRIH;Initial Catalog=Clientes;Integrated Security=True";
         }
 
         //Método para conectar com o banco de dados
