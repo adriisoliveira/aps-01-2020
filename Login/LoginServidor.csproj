@@ -81,7 +81,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Desktop\APS TESTES\Servidor APS\Servidor APS.csproj">
+    <ProjectReference Include="..\Servidor APS\Servidor APS.csproj">
       <Project>{C8376765-F086-446E-BD36-EDF6B7F4A838}</Project>
       <Name>Servidor APS</Name>
     </ProjectReference>

@@ -11,7 +11,7 @@ namespace Login
         public Conexao()
         {
             //endereço do banco de dados
-            con.ConnectionString = "Data Source=DRIH;Initial Catalog=LoginServidor;Integrated Security=True";
+            con.ConnectionString = "Data Source=LAPTOP-19CP4RFH\\DRIH;Initial Catalog=LoginServidor;Integrated Security=True";
         }
 
         //Método para conectar com o banco de dados
